@@ -1,6 +1,6 @@
 ### Hi there, I'm [Juan Bautista](https://www.linkedin.com/in/juan-bautista-garc%C3%ADa-traver-808a16220) 👋
 
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+Glad to see you here! ![visitors](https://komarev.com/ghpvc/?username=bautista225)
 
 **📈 My GitHub Stats:**
 
