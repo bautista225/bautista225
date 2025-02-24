@@ -1,8 +1,18 @@
-### Hi there, I'm [Juan Bautista](https://www.linkedin.com/in/juan-bautista-garc%C3%ADa-traver-808a16220) 👋
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/juan-bautista-garc%C3%ADa-traver-808a16220">Juan Bautista</a> 👋 👨‍💻</h1>
+<h3 align="center">A full-stack developer from Spain</h3>
 
-Glad to see you here! ![visitors](https://komarev.com/ghpvc/?username=bautista225)
+<br />
+
+- ⭐ Specialized in JavaScript, C#, and Python
+- 🤖 Passionate about web-development and AI projects, experimenting with small hobby projects in my free time
+- 🌱 Currently diving into React, Node.js and related libraries to expand my frontend skills
+- 🤝 Seeking open source collaborations
+- ⚡ Fun fact: I love developing simple interfaces and enjoy when frontend and APIs are seamlessly integrated.
+
 
 **📈 My GitHub Stats:**
+
+Glad to see you here! ![visitors](https://komarev.com/ghpvc/?username=bautista225)
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
