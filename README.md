@@ -9,8 +9,9 @@
 - 🤝 Seeking open source collaborations
 - ⚡ Fun fact: I love developing simple interfaces and enjoy when frontend and APIs are seamlessly integrated.
 
+<br />
 
-**📈 My GitHub Stats:**
+<h3 align="center">📈 My GitHub Stats:</h3>
 
 Glad to see you here! ![visitors](https://komarev.com/ghpvc/?username=bautista225)
 
