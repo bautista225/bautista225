@@ -11,8 +11,9 @@
 
 <br />
 
-<h3 align="center">📈 My GitHub Stats:</h3>
+<h3 align="center">📈 My GitHub Stats</h3>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=bautista225" /></p>
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -23,7 +24,6 @@
   </a>
 </div>
 
-<p align="center">Glad to see you here! <img src="https://komarev.com/ghpvc/?username=bautista225" /></p>
 
 <!--
 **bautista225/bautista225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
