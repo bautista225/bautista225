@@ -13,7 +13,7 @@
 
 <h3 align="center">📈 My GitHub Stats:</h3>
 
-Glad to see you here! ![visitors](https://komarev.com/ghpvc/?username=bautista225)
+<p align="center">Glad to see you here! ![visitors](https://komarev.com/ghpvc/?username=bautista225)</p>
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
