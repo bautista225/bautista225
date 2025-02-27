@@ -7,7 +7,7 @@
 - 🤖 Passionate about web-development and AI projects, experimenting with small hobby projects in my free time
 - 🌱 Currently diving into React, Node.js and related libraries to expand my frontend skills
 - 🤝 Seeking open source collaborations
-- ⚡ Fun fact: I enjoy developing different simple ideas into small applications to solve daily issues.
+- ⚡ Fun fact: I enjoy developing different simple ideas into simple interfaces to solve daily issues.
 
 <br />
 
