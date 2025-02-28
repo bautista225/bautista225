@@ -36,9 +36,11 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=bautista225&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
   </a>
+<br />
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bautista225&layout=compact&hide_border=true&&count_private=true&theme=dracula" />
   </a>
+<br />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bautista225&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
