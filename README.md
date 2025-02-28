@@ -52,7 +52,10 @@
 
 <br/>
 <img alt="bg-gradient-to-r from-purple-900 via-violet-600 to-blue-600 made with https://www.creative-tim.com/twcomponents/gradient-generator" src="https://github.com/user-attachments/assets/e4b325f8-c3f6-4562-9333-fe5b2ee51ee6">
-<br/>
+
+<br />
+<br />
+
 <p align="center">Crafted with ❤️ in Spain</p>
 
 
