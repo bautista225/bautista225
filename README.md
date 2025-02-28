@@ -26,7 +26,7 @@
 <br />
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img alt="bg-gradient-to-r from-purple-900 via-violet-600 to-blue-600 made with https://www.creative-tim.com/twcomponents/gradient-generator" src="https://github.com/user-attachments/assets/e4b325f8-c3f6-4562-9333-fe5b2ee51ee6"><br>
 
 [![Frontend-skills](https://skillicons.dev/icons?i=html,js,ts,react,redux,space,tailwind,bootstrap,materialui,css,jquery,space,mongodb,mysql,space,vite,vitest,npm,pnpm,space,graphql,nodejs,express,space,dotnet,cs,bash,linux,md,space,py,opencv,tensorflow,pytorch,space,docker,git,github,postman,vscode)](https://bautista225.github.io/portfolio)
 
@@ -34,7 +34,7 @@
 <br />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img alt="bg-gradient-to-r from-purple-900 via-violet-600 to-blue-600 made with https://www.creative-tim.com/twcomponents/gradient-generator" src="https://github.com/user-attachments/assets/e4b325f8-c3f6-4562-9333-fe5b2ee51ee6">
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
