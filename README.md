@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/juan-bautista-garc%C3%ADa-traver-808a16220">Juan Bautista</a> 👋 👨‍💻</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/juan-bautista-garcia-traver/">Juan Bautista</a> 👋 👨‍💻</h1>
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=bautista225&label=Profile%20views&color=blue&style=for-the-badge)](linkedin.com/in/juan-bautista-garcia-traver/)
 <span>
